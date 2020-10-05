@@ -1,2 +1,5 @@
-# azure_reference
-This repository is for quick reference sites related to Azure 
+# Quick Reference
+This repository is for quick reference of knowledge base.
+- Azure
+
+
